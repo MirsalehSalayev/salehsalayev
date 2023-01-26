@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Mirsaleh and I'm a Software Engineer.
 
-[![Linkedin: mirsaleh salayev](https://img.shields.io/badge/-fuadpashayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fuadpashayev/)](https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)    ![ViewCount](https://komarev.com/ghpvc/?username=fuadpashayev&color=1A4730)
-[![GitHub Thaiane](https://img.shields.io/github/followers/fuadpashayev?label=follow&style=social)](https://github.com/fuadpashayev)
+[![Linkedin: mirsaleh salayev](https://img.shields.io/badge/-fuadpashayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fuadpashayev/)](https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)   
+[![GitHub Thaiane](https://img.shields.io/github/followers/fuadpashayev?label=follow&style=social)](https://github.com/MirsalehSalayev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsalehsalayev&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirsalehsalayev&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)<br><br>
