@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Mirsaleh and I'm a Software Engineer.
 
-[![Linkedin: mirsaleh salayev](https://img.shields.io/badge/-Mirsaleh Salayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)](https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)   
+[![Linkedin: mirsalehsalayev](https://img.shields.io/badge/-MirsalehSalayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)](https://www.linkedin.com/in/mirsaleh-salayev-aa726a244/)   
 [![GitHub Thaiane](https://img.shields.io/github/followers/fuadpashayev?label=follow&style=social)](https://github.com/MirsalehSalayev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirsalehsalayev&layout=compact&theme=gotham&custom_title=Statistics)<br><br>
